@@ -1,0 +1,707 @@
+[
+    {
+        "zone": 1,
+        "x1": 0,
+        "x2": 1600,
+        "y1": 0,
+        "y2": 1600,
+        "meshes": [
+            {
+                "model_name": "Cube",
+                "texture": "Texture1",
+                "coordinates": {
+                    "x": 100,
+                    "y": 1000,
+                    "z": 0,
+                },
+                "rotation": {
+                    "x": -10,
+                    "y": 30,
+                    "z": 20,
+                },
+                "scale": {
+                    "x": 1,
+                    "y": 2,
+                    "z": 3,
+                }
+            },
+            {
+                "model_name": "Sphere",
+                "texture": "Texture1",
+                "coordinates": {
+                    "x": 100,
+                    "y": 1000,
+                    "z": 500,
+                },
+                "rotation": {
+                    "x": -10,
+                    "y": 30,
+                    "z": 20,
+                },
+                "scale": {
+                    "x": 1,
+                    "y": 2,
+                    "z": 3,
+                }
+            }
+        ]
+    },
+     {
+         "zone": 2,
+         "x1": 1600,
+         "x2": 3200,
+         "y1": 0,
+         "y2": 1600,
+         "meshes": [
+             {
+                 "model_name": "Cube",
+                 "texture": "Texture1",
+                 "coordinates": {
+                     "x": 1700,
+                     "y": 100,
+                     "z": 0,
+                 },
+                 "rotation": {
+                     "x": -10,
+                     "y": 30,
+                     "z": 20,
+                 },
+                 "scale": {
+                     "x": 1,
+                     "y": 2,
+                     "z": 3,
+                 }
+             },
+             {
+                 "model_name": "Cube",
+                 "texture": "Texture1",
+                 "coordinates": {
+                     "x": 1900,
+                     "y": 100,
+                     "z": 0,
+                 },
+                 "rotation": {
+                     "x": -10,
+                     "y": 30,
+                     "z": 20,
+                 },
+                 "scale": {
+                     "x": 1,
+                     "y": 2,
+                     "z": 3,
+                 }
+             }
+         ]
+     },
+     {
+         "zone": 3,
+         "x1": 3200,
+         "x2": 4800,
+         "y1": 0,
+         "y2": 1600,
+         "meshes": [
+             {
+                 "model_name": "Cube",
+                 "texture": "Texture1",
+                 "coordinates": {
+                     "x": 3300,
+                     "y": 4300,
+                     "z": 0,
+                 },
+                 "rotation": {
+                     "x": -10,
+                     "y": 30,
+                     "z": 20,
+                 },
+                 "scale": {
+                     "x": 1,
+                     "y": 2,
+                     "z": 3,
+                 }
+             },
+             {
+                 "model_name": "Cube",
+                 "texture": "Texture1",
+                 "coordinates": {
+                     "x": 4000,
+                     "y": 1000,
+                     "z": 0,
+                 },
+                 "rotation": {
+                     "x": -10,
+                     "y": 30,
+                     "z": 20,
+                 },
+                 "scale": {
+                     "x": 1,
+                     "y": 2,
+                     "z": 3,
+                 }
+             }
+         ]
+     },
+     {
+         "zone": 4,
+         "x1": 4800,
+         "x2": 6400,
+         "y1": 0,
+         "y2": 1600,
+         "meshes": [
+             {
+                 "model_name": "Cube",
+                 "texture": "Texture1",
+                 "coordinates": {
+                     "x": 4900,
+                     "y": 200,
+                     "z": 0,
+                 },
+                 "rotation": {
+                     "x": -10,
+                     "y": 30,
+                     "z": 20,
+                 },
+                 "scale": {
+                     "x": 1,
+                     "y": 2,
+                     "z": 3,
+                 }
+             },
+             {
+                 "model_name": "Cube",
+                 "texture": "Texture1",
+                 "coordinates": {
+                     "x": 5200,
+                     "y": 300,
+                     "z": 0,
+                 },
+                 "rotation": {
+                     "x": -10,
+                     "y": 30,
+                     "z": 20,
+                 },
+                 "scale": {
+                     "x": 1,
+                     "y": 2,
+                     "z": 3,
+                 }
+             }
+         ]
+     },
+     {
+         "zone": 5,
+         "x1": 6400,
+         "x2": 8000,
+         "y1": 0,
+         "y2": 1600,
+         "meshes": [
+             {
+                 "model_name": "Cube",
+                 "texture": "Texture1",
+                 "coordinates": {
+                     "x": 7000,
+                     "y": 1000,
+                     "z": 0,
+                 },
+                 "rotation": {
+                     "x": -10,
+                     "y": 30,
+                     "z": 20,
+                 },
+                 "scale": {
+                     "x": 1,
+                     "y": 2,
+                     "z": 3,
+                 }
+             },
+             {
+                 "model_name": "Cube",
+                 "texture": "Texture1",
+                 "coordinates": {
+                     "x": 7000,
+                     "y": 1000,
+                     "z": 400,
+                 },
+                 "rotation": {
+                     "x": -10,
+                     "y": 30,
+                     "z": 20,
+                 },
+                 "scale": {
+                     "x": 1,
+                     "y": 2,
+                     "z": 3,
+                 }
+             }
+         ]
+     },
+     {
+         "zone": 6,
+         "x1": 0,
+         "x2": 1600,
+         "y1": 1600,
+         "y2": 3200,
+         "meshes": [
+             {
+                 "model_name": "Cube",
+                 "texture": "Texture1",
+                 "coordinates": {
+                     "x": 100,
+                     "y": 1700,
+                     "z": 300,
+                 },
+                 "rotation": {
+                     "x": -10,
+                     "y": 30,
+                     "z": 20,
+                 },
+                 "scale": {
+                     "x": 1,
+                     "y": 2,
+                     "z": 3,
+                 }
+             },
+             {
+                 "model_name": "Cube",
+                 "texture": "Texture1",
+                 "coordinates": {
+                     "x": 100,
+                     "y": 1700,
+                     "z": 0,
+                 },
+                 "rotation": {
+                     "x": -10,
+                     "y": 30,
+                     "z": 20,
+                 },
+                 "scale": {
+                     "x": 1,
+                     "y": 2,
+                     "z": 3,
+                 }
+             }
+         ]
+     },
+     {
+         "zone": 7,
+         "x1": 1600,
+         "x2": 3200,
+         "y1": 1600,
+         "y2": 3200,
+         "meshes": [
+             {
+                 "model_name": "Cube",
+                 "texture": "Texture1",
+                 "coordinates": {
+                     "x": 30.3,
+                     "y": 10.25,
+                     "z": 0,
+                 },
+                 "rotation": {
+                     "x": -10,
+                     "y": 30,
+                     "z": 20,
+                 },
+                 "scale": {
+                     "x": 1,
+                     "y": 2,
+                     "z": 3,
+                 }
+             },
+             {
+                 "model_name": "Cube",
+                 "texture": "Texture1",
+                 "coordinates": {
+                     "x": 30.3,
+                     "y": 10.25,
+                     "z": 0,
+                 },
+                 "rotation": {
+                     "x": -10,
+                     "y": 30,
+                     "z": 20,
+                 },
+                 "scale": {
+                     "x": 1,
+                     "y": 2,
+                     "z": 3,
+                 }
+             }
+         ]
+     },
+     {
+         "zone": 8,
+         "x1": 3200,
+         "x2": 4800,
+         "y1": 1600,
+         "y2": 3200,
+         "meshes": [
+             {
+                 "model_name": "Cube",
+                 "texture": "Texture1",
+                 "coordinates": {
+                     "x": 30.3,
+                     "y": 10.25,
+                     "z": 0,
+                 },
+                 "rotation": {
+                     "x": -10,
+                     "y": 30,
+                     "z": 20,
+                 },
+                 "scale": {
+                     "x": 1,
+                     "y": 2,
+                     "z": 3,
+                 }
+             },
+             {
+                 "model_name": "Cube",
+                 "texture": "Texture1",
+                 "coordinates": {
+                     "x": 30.3,
+                     "y": 10.25,
+                     "z": 0,
+                 },
+                 "rotation": {
+                     "x": -10,
+                     "y": 30,
+                     "z": 20,
+                 },
+                 "scale": {
+                     "x": 1,
+                     "y": 2,
+                     "z": 3,
+                 }
+             }
+         ]
+     },
+     {
+         "zone": 9,
+         "x1": 4800,
+         "x2": 6400,
+         "y1": 1600,
+         "y2": 3200,
+         "meshes": [
+             {
+                 "model_name": "Cube",
+                 "texture": "Texture1",
+                 "coordinates": {
+                     "x": 30.3,
+                     "y": 10.25,
+                     "z": 0,
+                 },
+                 "rotation": {
+                     "x": -10,
+                     "y": 30,
+                     "z": 20,
+                 },
+                 "scale": {
+                     "x": 1,
+                     "y": 2,
+                     "z": 3,
+                 }
+             },
+             {
+                 "model_name": "Cube",
+                 "texture": "Texture1",
+                 "coordinates": {
+                     "x": 30.3,
+                     "y": 10.25,
+                     "z": 0,
+                 },
+                 "rotation": {
+                     "x": -10,
+                     "y": 30,
+                     "z": 20,
+                 },
+                 "scale": {
+                     "x": 1,
+                     "y": 2,
+                     "z": 3,
+                 }
+             }
+         ]
+     },
+     {
+         "zone": 10,
+         "x1": 6400,
+         "x2": 8000,
+         "y1": 1600,
+         "y2": 3200,
+         "meshes": [
+             {
+                 "model_name": "Cube",
+                 "texture": "Texture1",
+                 "coordinates": {
+                     "x": 30.3,
+                     "y": 10.25,
+                     "z": 0,
+                 },
+                 "rotation": {
+                     "x": -10,
+                     "y": 30,
+                     "z": 20,
+                 },
+                 "scale": {
+                     "x": 1,
+                     "y": 2,
+                     "z": 3,
+                 }
+             },
+             {
+                 "model_name": "Cube",
+                 "texture": "Texture1",
+                 "coordinates": {
+                     "x": 30.3,
+                     "y": 10.25,
+                     "z": 0,
+                 },
+                 "rotation": {
+                     "x": -10,
+                     "y": 30,
+                     "z": 20,
+                 },
+                 "scale": {
+                     "x": 1,
+                     "y": 2,
+                     "z": 3,
+                 }
+             }
+         ]
+     },
+     {
+         "zone": 11,
+         "x1": 0,
+         "x2": 1600,
+         "y1": 3200,
+         "y2": 4800,
+         "meshes": [
+             {
+                 "model_name": "Cube",
+                 "texture": "Texture1",
+                 "coordinates": {
+                     "x": 30.3,
+                     "y": 10.25,
+                     "z": 0,
+                 },
+                 "rotation": {
+                     "x": -10,
+                     "y": 30,
+                     "z": 20,
+                 },
+                 "scale": {
+                     "x": 1,
+                     "y": 2,
+                     "z": 3,
+                 }
+             },
+             {
+                 "model_name": "Cube",
+                 "texture": "Texture1",
+                 "coordinates": {
+                     "x": 30.3,
+                     "y": 10.25,
+                     "z": 0,
+                 },
+                 "rotation": {
+                     "x": -10,
+                     "y": 30,
+                     "z": 20,
+                 },
+                 "scale": {
+                     "x": 1,
+                     "y": 2,
+                     "z": 3,
+                 }
+             }
+         ]
+     },
+     {
+         "zone": 12,
+         "x1": 1600,
+         "x2": 3200,
+         "y1": 3200,
+         "y2": 4800,
+         "meshes": [
+             {
+                 "model_name": "Cube",
+                 "texture": "Texture1",
+                 "coordinates": {
+                     "x": 30.3,
+                     "y": 10.25,
+                     "z": 0,
+                 },
+                 "rotation": {
+                     "x": -10,
+                     "y": 30,
+                     "z": 20,
+                 },
+                 "scale": {
+                     "x": 1,
+                     "y": 2,
+                     "z": 3,
+                 }
+             },
+             {
+                 "model_name": "Cube",
+                 "texture": "Texture1",
+                 "coordinates": {
+                     "x": 30.3,
+                     "y": 10.25,
+                     "z": 0,
+                 },
+                 "rotation": {
+                     "x": -10,
+                     "y": 30,
+                     "z": 20,
+                 },
+                 "scale": {
+                     "x": 1,
+                     "y": 2,
+                     "z": 3,
+                 }
+             }
+         ]
+     },
+     {
+         "zone": 13,
+         "x1": 3200,
+         "x2": 4800,
+         "y1": 3200,
+         "y2": 4800,
+         "meshes": [
+             {
+                 "model_name": "Cube",
+                 "texture": "Texture1",
+                 "coordinates": {
+                     "x": 30.3,
+                     "y": 10.25,
+                     "z": 0,
+                 },
+                 "rotation": {
+                     "x": -10,
+                     "y": 30,
+                     "z": 20,
+                 },
+                 "scale": {
+                     "x": 1,
+                     "y": 2,
+                     "z": 3,
+                 }
+             },
+             {
+                 "model_name": "Cube",
+                 "texture": "Texture1",
+                 "coordinates": {
+                     "x": 30.3,
+                     "y": 10.25,
+                     "z": 0,
+                 },
+                 "rotation": {
+                     "x": -10,
+                     "y": 30,
+                     "z": 20,
+                 },
+                 "scale": {
+                     "x": 1,
+                     "y": 2,
+                     "z": 3,
+                 }
+             }
+         ]
+     },
+     {
+         "zone": 14,
+         "x1": 4800,
+         "x2": 6400,
+         "y1": 3200,
+         "y2": 4800,
+         "meshes": [
+             {
+                 "model_name": "Cube",
+                 "texture": "Texture1",
+                 "coordinates": {
+                     "x": 30.3,
+                     "y": 10.25,
+                     "z": 0,
+                 },
+                 "rotation": {
+                     "x": -10,
+                     "y": 30,
+                     "z": 20,
+                 },
+                 "scale": {
+                     "x": 1,
+                     "y": 2,
+                     "z": 3,
+                 }
+             },
+             {
+                 "model_name": "Cube",
+                 "texture": "Texture1",
+                 "coordinates": {
+                     "x": 30.3,
+                     "y": 10.25,
+                     "z": 0,
+                 },
+                 "rotation": {
+                     "x": -10,
+                     "y": 30,
+                     "z": 20,
+                 },
+                 "scale": {
+                     "x": 1,
+                     "y": 2,
+                     "z": 3,
+                 }
+             }
+         ]
+     },
+     {
+         "zone": 15,
+         "x1": 6400,
+         "x2": 8000,
+         "y1": 3200,
+         "y2": 4800,
+         "meshes": [
+             {
+                 "model_name": "Cube",
+                 "texture": "Texture1",
+                 "coordinates": {
+                     "x": 30.3,
+                     "y": 10.25,
+                     "z": 0,
+                 },
+                 "rotation": {
+                     "x": -10,
+                     "y": 30,
+                     "z": 20,
+                 },
+                 "scale": {
+                     "x": 1,
+                     "y": 2,
+                     "z": 3,
+                 }
+             },
+             {
+                 "model_name": "Cube",
+                 "texture": "Texture1",
+                 "coordinates": {
+                     "x": 30.3,
+                     "y": 10.25,
+                     "z": 0,
+                 },
+                 "rotation": {
+                     "x": -10,
+                     "y": 30,
+                     "z": 20,
+                 },
+                 "scale": {
+                     "x": 1,
+                     "y": 2,
+                     "z": 3,
+                 }
+             }
+         ]
+     }
+]
